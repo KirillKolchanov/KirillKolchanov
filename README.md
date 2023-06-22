@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **NextJS 13**
 
-- 👨‍💻 All of my projects are available at [projects](http://bitly.pl/ZSJjg)
+- 👨‍💻 All of my projects are available at [projects](https://docs.google.com/document/d/1mx5G8j6obGhQT1qi_JXyAvVztVw6GNvV2KQWE_yqHLU/edit?usp=sharing)
 
 - 💬 Ask me about **React, Redux, Typescript, JavaScript... 🧠**
 
 - 📫 How to reach me **kirill.kolchanov.work@gmail.com**
 
-- 📄 Know about my experiences [CV](http://bitly.pl/2mOYD)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VdiFse2K6rIK_zf7QgKhXVbSrV4vOCHJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
