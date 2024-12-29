@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏼, I'm Kirill</h1>
-<h3 align="center">I am a 3-year experienced Front-end/Mobile Developer from Poland 🇵🇱</h3>
+<h3 align="center">I am an experienced Front-end/Mobile Developer from Poland 🇵🇱</h3>
 <h3 align="center">And now I am looking for a job now 🧑🏼‍💻</h3>
 
-- 🔭 I’m currently working as React Native developer at Andersan Lab company
+- 🔭 I am currently exploring new job opportunities and would love to stay in touch. If any relevant vacancies come up, I would be happy to discuss them further.
 
 - 🌱 I’m currently learning **React Native**
 
