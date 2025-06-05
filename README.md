@@ -6,14 +6,12 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [projects](https://docs.google.com/document/d/1mx5G8j6obGhQT1qi_JXyAvVztVw6GNvV2KQWE_yqHLU/edit?usp=sharing)
-
+- 👨‍💻 Some of my projects descriptions are available on my CV. Just have a look [CV](https://drive.google.com/file/d/1gU7gLBtYcfn8j-LW_bMqYFFWcW4T4qqo/view?usp=sharing)
 - 💬 Ask me about **React, React Native, Typescript, JavaScript, Redux... 🧠**
 
 - 📫 How to reach me **kirill.ko.work@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1VdiFse2K6rIK_zf7QgKhXVbSrV4vOCHJ/view?usp=sharing](https://drive.google.com/file/d/1oTHc3H6jePC31YUDaHi69q5t8poO6Sj3/view?usp=sharing))
-
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1gU7gLBtYcfn8j-LW_bMqYFFWcW4T4qqo/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirillkolchanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirillkolchanov" height="35" width="35" /></a>
